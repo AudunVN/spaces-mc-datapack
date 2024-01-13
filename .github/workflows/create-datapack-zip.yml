@@ -1,0 +1,58 @@
+name: Create Minecraft Datapack+Resourcepack zip files
+on: [push]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+
+      - name: Archive Repo (zip)
+        uses: thedoctor0/zip-release@0.7.1
+        with:
+          type: 'zip'
+          filename: 'latest-source.zip'
+          exclusions: > 
+            *.git*
+            /*.github/*
+            /*.vscode/*
+            latest-source.zip
+            spaces-mc-datapack.zip
+            spaces-mc-datapack-resources.zip
+
+      - name: Archive Datapack
+        uses: thedoctor0/zip-release@0.7.1
+        with:
+          type: 'zip'
+          filename: 'spaces-mc-datapack.zip'
+          directory: 'datapack'
+          exclusions: > 
+            .gitkeep
+
+      - name: Archive Resourcepack
+        uses: thedoctor0/zip-release@0.7.1
+        with:
+          type: 'zip'
+          filename: 'spaces-mc-datapack-resources.zip'
+          directory: 'resourcepack'
+          exclusions: > 
+            .gitkeep
+
+      - name: Upload Release
+        uses: ncipollo/release-action@v1.12.0
+        with:
+          tag: latest
+          commit: main
+          prerelease: true
+          generateReleaseNotes: true
+          allowUpdates: true
+          makeLatest: true
+          replacesArtifacts: true
+          artifacts:
+            datapack/spaces-mc-datapack.zip,
+            resourcepack/spaces-mc-datapack-resources.zip,
+            latest-source.zip
+          token: ${{ secrets.GITHUB_TOKEN }}
