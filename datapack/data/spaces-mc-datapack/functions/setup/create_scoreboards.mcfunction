@@ -1,1 +1,1 @@
-scoreboard objectives add bingo_bongo.player_health dummy
+scoreboard objectives add space_mc.player_air dummy

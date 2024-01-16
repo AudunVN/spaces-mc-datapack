@@ -1,7 +1,7 @@
 {
 	"oxygen_warning": {
 		"sounds": [
-			"mymod:beep_oxygen"
+			"spaces-mc-datapack:beep_oxygen"
 		]
 	}
 }

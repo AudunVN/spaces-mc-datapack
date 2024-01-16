@@ -1,7 +1,5 @@
 {
 	"values": [
-		"spaces-mc-datapack:patches/set_mob_pickup_rate",
-		"spaces-mc-datapack:advancements/half_a_health_check",
-		"spaces-mc-datapack:advancements/ten_tasks_check"
+		"spaces-mc-datapack:advancements/low_oxygen_check"
 	]
 }
