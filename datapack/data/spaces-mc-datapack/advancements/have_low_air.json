@@ -1,0 +1,26 @@
+{
+	"display": {
+		"title": {
+			"text": "Beep! Oxygen."
+		},
+		"description": {
+			"text": "Be low on air."
+		},
+		"icon": {
+			"item": "minecraft:rotten_flesh"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+	"criteria": {
+		"Granted by function low_air_check": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"rewards": {
+		"function": "spaces-mc-datapack:advancements/low_air_reward"
+	},
+	"parent": "spaces-mc-datapack:root"
+}

@@ -1,7 +1,17 @@
 {
-	"oxygen_warning": {
+	"air_warning": {
 		"sounds": [
-			"spaces-mc-datapack:beep_oxygen"
+			"spaces-mc-datapack:air_warning"
+		]
+	},
+	"food_warning": {
+		"sounds": [
+			"spaces-mc-datapack:food_warning"
+		]
+	},
+	"good_vitals": {
+		"sounds": [
+			"spaces-mc-datapack:good_vitals"
 		]
 	}
 }
