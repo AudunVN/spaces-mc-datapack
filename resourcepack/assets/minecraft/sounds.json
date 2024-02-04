@@ -22,11 +22,11 @@
 		"sounds": [
 			{
 				"name": "obiwan-hello-there",
-				"pitch": 1.0
+				"pitch": 2.0
 			},
 			{
 				"name": "ismet-hallo-der",
-				"pitch": 1.0
+				"pitch": 2.0
 			},
 			{
 				"name": "surprise-motherfucka",
