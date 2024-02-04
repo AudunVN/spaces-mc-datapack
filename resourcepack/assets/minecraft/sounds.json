@@ -5,11 +5,152 @@
 			"bonk"
 		]
 	},
+	"block.anvil.use": {
+		"replace": false,
+		"sounds": [
+			"gmod-metal"
+		]
+	},
+	"block.anvil.land": {
+		"replace": false,
+		"sounds": [
+			"metalpipe"
+		]
+	},
+	"entity.creeper.primed": {
+		"replace": false,
+		"sounds": [
+			"obiwan-hello-there",
+			"ismet-hallo-der",
+			"surprise-motherfucka"
+		]
+	},
+	"entity.ender_dragon.death": {
+		"replace": false,
+		"sounds": [
+			"ussr-anthem-sting",
+			"gta-sa-mission-complete"
+		]
+	},
 	"entity.enderman.stare": {
 		"replace": false,
 		"sounds": [
+			"alert",
+			"brah",
 			"lookin-at",
-			"woah-mate"
+			"woah-mate",
+			"right-hook",
+			"omae-wa-mou-shindeiru",
+			"jontron-what",
+			"megalovania",
+			"why-are-you-running",
+			"it-was-at-this-moment-that-he-knew",
+			"vine-boom"
+		]
+	},
+	"entity.enderman.scream": {
+		"replace": false,
+		"sounds": [
+			"knobhead",
+			"stupid-knobhead",
+			"halo-elite-hahahahahahaha",
+			"halo-elite-killedenemyplayer8",
+			"halo-elite-waagh",
+			"noot-noot"
+		]
+	},
+	"entity.enderman.ambient": {
+		"replace": false,
+		"sounds": [
+			"scotland-pound-note",
+			"wort-wort-wort",
+			"halo-elite-woboba",
+			"halo-elite-groupuncover1"
+		]
+	},
+	"entity.enderman.death": {
+		"replace": false,
+		"sounds": [
+			"gmod-ragdoll",
+			"discord-leave"
+		]
+	},
+	"entity.enderman.hurt": {
+		"replace": false,
+		"sounds": [
+			"not-a-good-day",
+			"watch-what-youre-doing",
+			"you-still-here",
+			"halo-elite-sightednewenemy3",
+			"halo-elite-waagh",
+			"ismet-korkort",
+			"sm64-hurt"
+		]
+	},
+	"entity.enderman.teleport": {
+		"replace": false,
+		"sounds": [
+			"stop-him",
+			"woah-mate",
+			"not-too-fast",
+			"why-dint-ya-stop-him",
+			"hello-your-computer-has-virus",
+			"sm64-yahoo"
+		]
+	},
+	"entity.ender_pearl.throw": {
+		"replace": false,
+		"sounds": [
+			"kor-ska-vi-reis-hen-nu",
+			"men-kor-ska-vi-reis-hen-nu"
+		]
+	},
+	"entity.iron_golem.death": {
+		"replace": false,
+		"sounds": [
+			"metalpipe"
+		]
+	},
+	"entity.iron_golem.hurt": {
+		"replace": false,
+		"sounds": [
+			"gmod-metal"
+		]
+	},
+	"entity.villager.trade": {
+		"replace": false,
+		"sounds": [
+			"stonks",
+			"kaching",
+			"yaya",
+			"here-comes-the-money"
+		]
+	},
+	"entity.wandering_trader.trade": {
+		"replace": false,
+		"sounds": [
+			"stonks",
+			"kaching",
+			"yaya",
+			"here-comes-the-money"
+		]
+	},
+	"entity.zombie.attack_wooden_door": {
+		"replace": false,
+		"sounds": [
+			"knock-knock"
+		]
+	},
+	"entity.zombie.attack_iron_door": {
+		"replace": false,
+		"sounds": [
+			"knock-knock"
+		]
+	},
+	"entity.zombie.break_wooden_door": {
+		"replace": false,
+		"sounds": [
+			"fbi-open-up"
 		]
 	},
 	"block.beehive.enter": {
@@ -25,16 +166,72 @@
 			"ismet-hallo-der"
 		]
 	},
+	"block.enchantment_table.use": {
+		"replace": false,
+		"sounds": [
+			"wa-wa-weewa",
+			"shiny"
+		]
+	},
+	"block.dispenser.launch": {
+		"replace": false,
+		"sounds": [
+			"yeet"
+		]
+	},
+	"block.piston.contract": {
+		"replace": false,
+		"sounds": [
+			{
+				"name": "today-we-have-payback-time",
+				"attenuation_distance": 8
+			}
+		]
+	},
+	"block.piston.extend": {
+		"replace": false,
+		"sounds": [
+			{
+				"name": "welcome-to-hydraulic-press-channel",
+				"attenuation_distance": 8
+			}
+		]
+	},
 	"block.smoker.smoke": {
 		"replace": false,
 		"sounds": [
-			"den-koker-vi",
-			"den-koker-v-hehehehe",
-			"det-meste-koker-vi-den-den-den-den",
-			"det-skal-jo-kokes",
-			"er-jo-fin-koke-den-og",
-			"nei-den-er-fin-koke-den-og",
-			"tar-vare-men-koker"
+			{
+				"name": "den-koker-vi",
+				"attenuation_distance": 8
+			},
+			{
+				"name": "den-koker-v-hehehehe",
+				"attenuation_distance": 8
+			},
+			{
+				"name": "det-meste-koker-vi-den-den-den-den",
+				"attenuation_distance": 8
+			},
+			{
+				"name": "det-skal-jo-kokes",
+				"attenuation_distance": 8
+			},
+			{
+				"name": "er-jo-fin-koke-den-og",
+				"attenuation_distance": 8
+			},
+			{
+				"name": "nei-den-er-fin-koke-den-og",
+				"attenuation_distance": 8
+			},
+			{
+				"name": "tar-vare-men-koker",
+				"attenuation_distance": 8
+			},
+			{
+				"name": "a-little-bit-of-cayenne",
+				"attenuation_distance": 8
+			}
 		]
 	}
 }
