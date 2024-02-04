@@ -65,7 +65,8 @@
 			"halo-elite-hahahahahahaha",
 			"halo-elite-killedenemyplayer8",
 			"halo-elite-waagh",
-			"noot-noot"
+			"noot-noot",
+			"fookin-knobhead"
 		]
 	},
 	"entity.enderman.ambient": {
@@ -74,7 +75,11 @@
 			"scotland-pound-note",
 			"wort-wort-wort",
 			"halo-elite-woboba",
-			"halo-elite-groupuncover1"
+			"halo-elite-groupuncover1",
+			"op",
+			"gnome-woo",
+			"think-its-dead",
+			"its-dead-anyway"
 		]
 	},
 	"entity.enderman.death": {
@@ -103,11 +108,17 @@
 			"woah-mate",
 			"not-too-fast",
 			"why-dint-ya-stop-him",
-			"hello-your-computer-has-virus",
 			"sm64-yahoo"
 		]
 	},
 	"entity.ender_pearl.throw": {
+		"replace": false,
+		"sounds": [
+			"kor-ska-vi-reis-hen-nu",
+			"men-kor-ska-vi-reis-hen-nu"
+		]
+	},
+	"block.portal.travel": {
 		"replace": false,
 		"sounds": [
 			"kor-ska-vi-reis-hen-nu",
@@ -124,6 +135,82 @@
 		"replace": false,
 		"sounds": [
 			"gmod-metal"
+		]
+	},
+	"block.sculk_sensor.clicking": {
+		"replace": false,
+		"sounds": [
+			"discord-message",
+			"samsung-message",
+			"plane-cabin-crew-call",
+			"uwu",
+			"ismet-korkort",
+			"click-nice",
+			"among",
+			"ding"
+		]
+	},
+	"block.sculk_shrieker.shriek": {
+		"replace": false,
+		"sounds": [
+			"horn",
+			"not-a-sheep-AAAAaAAAAAAAAAAA",
+			"reeeeeeeee",
+			"discord-call",
+			"goose-honk",
+			"halo-elite-waagh",
+			"skeleton-doot",
+			"tada",
+			"aah",
+			"friday-damn",
+			"csi-miami-fooled-again",
+			"baka",
+			"amogus_emergency",
+			"alert",
+			"noot-noot",
+			"kids-cheering-yaaaaay",
+			"zelda-mm-bells",
+			"no-god-please-no-noooooooooo"
+		]
+	},
+	"entity.warden.emerge": {
+		"replace": false,
+		"sounds": [
+			"it-was-at-this-moment-that-he-knew",
+			"discord-join",
+			"hello-your-computer-has-virus",
+			"pizza-here",
+			"what-are-you-doing-in-my-swamp",
+			"why-are-you-running",
+			"its-me-mario",
+			"duke-wifi-password",
+			"today-we-have-payback-time",
+			"windows-xp-startup",
+			"ea_games",
+			{
+				"name": "fbi-open-up-explosion",
+				"volume": 0.75
+			},
+			{
+				"name": "THOMAS-THE-TANK-ENGINE",
+				"volume": 0.75
+			},
+			{
+				"name": "SUKA-BLYAT-hardbass",
+				"volume": 0.75
+			},
+			{
+				"name": "shindeiru-loud-screech",
+				"volume": 0.75
+			}
+		]
+	},
+	"entity.warden.dig": {
+		"replace": false,
+		"sounds": [
+			"discord-leave",
+			"windows-shutdown",
+			"sm64-baibai"
 		]
 	},
 	"entity.villager.trade": {
