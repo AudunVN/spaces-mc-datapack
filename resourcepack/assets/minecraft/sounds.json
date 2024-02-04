@@ -114,8 +114,14 @@
 	"entity.ender_pearl.throw": {
 		"replace": false,
 		"sounds": [
-			"kor-ska-vi-reis-hen-nu",
-			"men-kor-ska-vi-reis-hen-nu"
+			{
+				"name": "kor-ska-vi-reis-hen-nu",
+				"pitch": 2.5
+			},
+			{
+				"name": "men-kor-ska-vi-reis-hen-nu",
+				"pitch": 2.5
+			}
 		]
 	},
 	"block.portal.trigger": {
