@@ -144,22 +144,24 @@
 			"samsung-message",
 			"whatsapp-message",
 			"steam-message",
-			"msn-message",
-			"plane-cabin-crew-call",
+			{
+				"name": "msn-message",
+				"volume": 0.4
+			},
 			{
 				"name": "plane-cabin-crew-call",
-				"volume": 0.5
+				"volume": 0.4
 			},
 			"uwu",
 			"ismet-korkort",
 			"click-nice",
 			{
 				"name": "among",
-				"volume": 0.5
+				"volume": 0.3
 			},
 			{
 				"name": "ding",
-				"volume": 0.5
+				"volume": 0.3
 			}
 		]
 	},
