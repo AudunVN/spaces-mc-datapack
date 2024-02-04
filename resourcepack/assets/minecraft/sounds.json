@@ -118,7 +118,7 @@
 			"men-kor-ska-vi-reis-hen-nu"
 		]
 	},
-	"block.portal.travel": {
+	"block.portal.trigger": {
 		"replace": false,
 		"sounds": [
 			"kor-ska-vi-reis-hen-nu",
