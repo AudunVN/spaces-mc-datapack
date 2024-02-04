@@ -215,11 +215,11 @@
 			},
 			{
 				"name": "loud-suka-blyat-hardbass",
-				"volume": 0.5
+				"volume": 0.4
 			},
 			{
 				"name": "shindeiru-loud-screech",
-				"volume": 0.5
+				"volume": 0.4
 			}
 		]
 	},
@@ -273,7 +273,7 @@
 		"sounds": [
 			{
 				"name": "my-pad",
-				"volume": 0.5
+				"volume": 0.4
 			}
 		]
 	},
@@ -282,11 +282,11 @@
 		"sounds": [
 			{
 				"name": "obiwan-hello-there",
-				"volume": 0.5
+				"volume": 0.4
 			},
 			{
 				"name": "ismet-hallo-der",
-				"volume": 0.5
+				"volume": 0.4
 			}
 		]
 	},
