@@ -142,11 +142,21 @@
 		"sounds": [
 			"discord-message",
 			"samsung-message",
+			"whatsapp-message",
+			"steam-message",
+			"msn-message",
 			"plane-cabin-crew-call",
+			{
+				"name": "plane-cabin-crew-call",
+				"volume": 0.75
+			},
 			"uwu",
 			"ismet-korkort",
 			"click-nice",
-			"among",
+			{
+				"name": "among",
+				"volume": 0.75
+			},
 			"ding"
 		]
 	},
@@ -157,6 +167,7 @@
 			"not-a-sheep-aaaaa",
 			"reeeeeeeee",
 			"discord-call",
+			"skype-call",
 			"goose-honk",
 			"halo-elite-waagh",
 			"skeleton-doot",
@@ -186,6 +197,7 @@
 			"duke-wifi-password",
 			"today-we-have-payback-time",
 			"windows-xp-startup",
+			"nei-slutt-naa-da-prinsesse",
 			"ea_games",
 			{
 				"name": "loud-fbi-open-up-explosion",
@@ -209,6 +221,7 @@
 		"replace": false,
 		"sounds": [
 			"discord-leave",
+			"skype-disconnect",
 			"windows-shutdown",
 			"sm64-baibai"
 		]
@@ -252,14 +265,23 @@
 	"block.beehive.enter": {
 		"replace": false,
 		"sounds": [
-			"my-pad"
+			{
+				"name": "my-pad",
+				"volume": 0.5
+			}
 		]
 	},
 	"block.beehive.exit": {
 		"replace": false,
 		"sounds": [
-			"obiwan-hello-there",
-			"ismet-hallo-der"
+			{
+				"name": "obiwan-hello-there",
+				"volume": 0.5
+			},
+			{
+				"name": "ismet-hallo-der",
+				"volume": 0.5
+			}
 		]
 	},
 	"block.enchantment_table.use": {
