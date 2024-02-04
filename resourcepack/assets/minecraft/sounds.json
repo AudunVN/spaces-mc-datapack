@@ -2,39 +2,39 @@
 	"item.shield.block": {
 		"replace": false,
 		"sounds": [
-			"spaces-mc-datapack:bonk"
+			"bonk"
 		]
 	},
 	"entity.enderman.stare": {
 		"replace": false,
 		"sounds": [
-			"spaces-mc-datapack:lookin-at",
-			"spaces-mc-datapack:woah-mate"
+			"lookin-at",
+			"woah-mate"
 		]
 	},
 	"block.beehive.enter": {
 		"replace": false,
 		"sounds": [
-			"spaces-mc-datapack:my-pad"
+			"my-pad"
 		]
 	},
 	"block.beehive.exit": {
 		"replace": false,
 		"sounds": [
-			"spaces-mc-datapack:obiwan-hello-there",
-			"spaces-mc-datapack:ismet-hallo-der"
+			"obiwan-hello-there",
+			"ismet-hallo-der"
 		]
 	},
 	"block.smoker.smoke": {
 		"replace": false,
 		"sounds": [
-			"spaces-mc-datapack:den-koker-vi",
-			"spaces-mc-datapack:den-koker-v-hehehehe",
-			"spaces-mc-datapack:det-meste-koker-vi-den-den-den-den",
-			"spaces-mc-datapack:det-skal-jo-kokes",
-			"spaces-mc-datapack:er-jo-fin-koke-den-og",
-			"spaces-mc-datapack:nei-den-er-fin-koke-den-og",
-			"spaces-mc-datapack:tar-vare-men-koker"
+			"den-koker-vi",
+			"den-koker-v-hehehehe",
+			"det-meste-koker-vi-den-den-den-den",
+			"det-skal-jo-kokes",
+			"er-jo-fin-koke-den-og",
+			"nei-den-er-fin-koke-den-og",
+			"tar-vare-men-koker"
 		]
 	}
 }
