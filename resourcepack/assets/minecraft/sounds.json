@@ -154,7 +154,7 @@
 		"replace": false,
 		"sounds": [
 			"horn",
-			"not-a-sheep-AAAAaAAAAAAAAAAA",
+			"not-a-sheep-aaaaa",
 			"reeeeeeeee",
 			"discord-call",
 			"goose-honk",
@@ -188,15 +188,15 @@
 			"windows-xp-startup",
 			"ea_games",
 			{
-				"name": "fbi-open-up-explosion",
+				"name": "loud-fbi-open-up-explosion",
 				"volume": 0.75
 			},
 			{
-				"name": "THOMAS-THE-TANK-ENGINE",
+				"name": "loud-thomas-the-tank-engine",
 				"volume": 0.75
 			},
 			{
-				"name": "SUKA-BLYAT-hardbass",
+				"name": "loud-suka-blyat-hardbass",
 				"volume": 0.75
 			},
 			{
