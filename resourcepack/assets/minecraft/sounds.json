@@ -20,9 +20,18 @@
 	"entity.creeper.primed": {
 		"replace": false,
 		"sounds": [
-			"obiwan-hello-there",
-			"ismet-hallo-der",
-			"surprise-motherfucka"
+			{
+				"name": "obiwan-hello-there",
+				"pitch": 1.0
+			},
+			{
+				"name": "ismet-hallo-der",
+				"pitch": 1.0
+			},
+			{
+				"name": "surprise-motherfucka",
+				"pitch": 2.0
+			}
 		]
 	},
 	"entity.ender_dragon.death": {
