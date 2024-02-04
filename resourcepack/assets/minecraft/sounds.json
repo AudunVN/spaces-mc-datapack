@@ -208,18 +208,21 @@
 			"windows-xp-startup",
 			"nei-slutt-naa-da-prinsesse",
 			"ea_games",
-			"loud-fbi-open-up-explosion",
+			{
+				"name": "loud-fbi-open-up-explosion",
+				"volume": 0.6
+			},
 			{
 				"name": "loud-thomas-the-tank-engine",
-				"volume": 0.5
+				"volume": 0.4
 			},
 			{
 				"name": "loud-suka-blyat-hardbass",
-				"volume": 0.4
+				"volume": 0.3
 			},
 			{
 				"name": "shindeiru-loud-screech",
-				"volume": 0.4
+				"volume": 0.3
 			}
 		]
 	},
