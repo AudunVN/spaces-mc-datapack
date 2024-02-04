@@ -52,8 +52,6 @@
 			"omae-wa-mou-shindeiru",
 			"jontron-what",
 			"megalovania",
-			"why-are-you-running",
-			"it-was-at-this-moment-that-he-knew",
 			"vine-boom"
 		]
 	},
@@ -146,10 +144,14 @@
 	"block.sculk_sensor.clicking": {
 		"replace": false,
 		"sounds": [
+			"skeleton-doot",
+			"aah",
+			"alert",
 			"discord-message",
 			"samsung-message",
 			"whatsapp-message",
 			"steam-message",
+			"goose-honk",
 			{
 				"name": "msn-message",
 				"volume": 0.4
@@ -160,6 +162,7 @@
 			},
 			"uwu",
 			"ismet-korkort",
+			"tada",
 			"click-nice",
 			{
 				"name": "among",
@@ -179,16 +182,11 @@
 			"reeeeeeeee",
 			"discord-call",
 			"skype-call",
-			"goose-honk",
 			"halo-elite-waagh",
-			"skeleton-doot",
-			"tada",
-			"aah",
 			"friday-damn",
 			"csi-miami-fooled-again",
 			"baka",
 			"amogus_emergency",
-			"alert",
 			"noot-noot",
 			"kids-cheering-yaaaaay",
 			"zelda-mm-bells",
@@ -210,21 +208,18 @@
 			"windows-xp-startup",
 			"nei-slutt-naa-da-prinsesse",
 			"ea_games",
-			{
-				"name": "loud-fbi-open-up-explosion",
-				"volume": 0.75
-			},
+			"loud-fbi-open-up-explosion",
 			{
 				"name": "loud-thomas-the-tank-engine",
-				"volume": 0.75
+				"volume": 0.5
 			},
 			{
 				"name": "loud-suka-blyat-hardbass",
-				"volume": 0.75
+				"volume": 0.5
 			},
 			{
 				"name": "shindeiru-loud-screech",
-				"volume": 0.75
+				"volume": 0.5
 			}
 		]
 	},
