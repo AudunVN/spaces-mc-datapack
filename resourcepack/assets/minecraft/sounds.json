@@ -129,8 +129,7 @@
 	"entity.enderman.death": {
 		"replace": false,
 		"sounds": [
-			"gmod-ragdoll",
-			"discord-leave"
+			"gmod-ragdoll"
 		]
 	},
 	"entity.enderman.hurt": {
