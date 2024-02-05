@@ -17,6 +17,49 @@
 			"metalpipe"
 		]
 	},
+	"entity.player.burp": {
+		"replace": false,
+		"sounds": [
+			"monsen-herlig",
+			"mr-melk-schmaker-godt"
+		]
+	},
+	"entity.mooshroom.suspicious_milk": {
+		"replace": false,
+		"sounds": [
+			"he-needs-some-milk-vine",
+			"mr-melk-schmaker-godt",
+			"mr-melk-kjempebra-protein",
+			"mr-melk-leve-sunt"
+		]
+	},
+	"entity.mooshroom.milk": {
+		"replace": false,
+		"sounds": [
+			"he-needs-some-milk-vine",
+			"mr-melk-schmaker-godt",
+			"mr-melk-kjempebra-protein",
+			"mr-melk-leve-sunt"
+		]
+	},
+	"entity.cow.milk": {
+		"replace": false,
+		"sounds": [
+			"he-needs-some-milk-vine",
+			"mr-melk-schmaker-godt",
+			"mr-melk-kjempebra-protein",
+			"mr-melk-leve-sunt"
+		]
+	},
+	"entity.goat.milk": {
+		"replace": false,
+		"sounds": [
+			"he-needs-some-milk-vine",
+			"mr-melk-schmaker-godt",
+			"mr-melk-kjempebra-protein",
+			"mr-melk-leve-sunt"
+		]
+	},
 	"entity.creeper.primed": {
 		"replace": false,
 		"sounds": [
@@ -38,7 +81,8 @@
 		"replace": false,
 		"sounds": [
 			"ussr-anthem-sting",
-			"gta-sa-mission-complete"
+			"gta-sa-mission-complete",
+			"shittyflute-titanic"
 		]
 	},
 	"entity.enderman.stare": {
@@ -64,7 +108,8 @@
 			"halo-elite-killedenemyplayer8",
 			"halo-elite-waagh",
 			"noot-noot",
-			"fookin-knobhead"
+			"fookin-knobhead",
+			"pikachu-thunderbolt"
 		]
 	},
 	"entity.enderman.ambient": {
@@ -75,6 +120,7 @@
 			"halo-elite-woboba",
 			"halo-elite-groupuncover1",
 			"op",
+			"uwu",
 			"gnome-woo",
 			"think-its-dead",
 			"its-dead-anyway"
@@ -171,7 +217,8 @@
 			{
 				"name": "ding",
 				"volume": 0.3
-			}
+			},
+			"hallo-alle-schammen"
 		]
 	},
 	"block.sculk_shrieker.shriek": {
@@ -187,10 +234,11 @@
 			"csi-miami-fooled-again",
 			"baka",
 			"amogus_emergency",
-			"noot-noot",
 			"kids-cheering-yaaaaay",
 			"zelda-mm-bells",
-			"no-god-please-no-noooooooooo"
+			"no-god-please-no-noooooooooo",
+			"hallo-alle-schammen-song",
+			"scotland-forever"
 		]
 	},
 	"entity.warden.emerge": {
@@ -223,7 +271,8 @@
 			{
 				"name": "shindeiru-loud-screech",
 				"volume": 0.3
-			}
+			},
+			"schmaker-godt-song"
 		]
 	},
 	"entity.warden.dig": {
