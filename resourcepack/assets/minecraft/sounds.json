@@ -123,13 +123,20 @@
 			"uwu",
 			"gnome-woo",
 			"think-its-dead",
-			"its-dead-anyway"
+			"its-dead-anyway",
+			"jon-almaas-landskap",
+			"jon-almaas-hoy-slank-urmann",
+			"jon-almaas-hvorfor-gaa-ut-av-baaten",
+			"jon-almaas-koste-meg",
+			"jon-almaas-lars-monsen-fikser",
+			"jon-almaas-lars-monsen-ogsaa-gjort"
 		]
 	},
 	"entity.enderman.death": {
 		"replace": false,
 		"sounds": [
-			"gmod-ragdoll"
+			"gmod-ragdoll",
+			"lars-monsen-slutt-for-jon"
 		]
 	},
 	"entity.enderman.hurt": {
@@ -141,7 +148,8 @@
 			"halo-elite-sightednewenemy3",
 			"halo-elite-waagh",
 			"ismet-korkort",
-			"sm64-hurt"
+			"sm64-hurt",
+			"jon-almaas-helvete"
 		]
 	},
 	"entity.enderman.teleport": {
