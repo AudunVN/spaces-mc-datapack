@@ -129,7 +129,8 @@
 			"jon-almaas-hvorfor-gaa-ut-av-baaten",
 			"jon-almaas-koste-meg",
 			"jon-almaas-lars-monsen-fikser",
-			"jon-almaas-lars-monsen-ogsaa-gjort"
+			"jon-almaas-lars-monsen-ogsaa-gjort",
+			"woop-woop"
 		]
 	},
 	"entity.enderman.death": {
@@ -325,6 +326,24 @@
 		"replace": false,
 		"sounds": [
 			"fbi-open-up"
+		]
+	},
+	"entity.husk.converted_to_zombie": {
+		"replace": false,
+		"sounds": [
+			"new-zombie"
+		]
+	},
+	"entity.zombie.converted_to_drowned": {
+		"replace": false,
+		"sounds": [
+			"new-zombie"
+		]
+	},
+	"entity.zombie.infect": {
+		"replace": false,
+		"sounds": [
+			"new-zombie"
 		]
 	},
 	"block.beehive.enter": {
