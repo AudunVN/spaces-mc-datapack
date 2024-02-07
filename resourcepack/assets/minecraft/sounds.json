@@ -21,7 +21,10 @@
 		"replace": false,
 		"sounds": [
 			"monsen-herlig",
-			"mr-melk-schmaker-godt"
+			{
+				"name": "mr-melk-schmaker-godt",
+				"volume": 0.4
+			}
 		]
 	},
 	"entity.mooshroom.suspicious_milk": {
@@ -269,8 +272,7 @@
 			{
 				"name": "ding",
 				"volume": 0.3
-			},
-			"hallo-alle-schammen"
+			}
 		]
 	},
 	"block.sculk_shrieker.shriek": {
