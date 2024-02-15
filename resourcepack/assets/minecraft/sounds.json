@@ -27,6 +27,12 @@
 			}
 		]
 	},
+	"entity.frog.tongue": {
+		"replace": false,
+		"sounds": [
+			"what-are-you-doing-in-my-swamp"
+		]
+	},
 	"entity.mooshroom.suspicious_milk": {
 		"replace": false,
 		"sounds": [
@@ -93,9 +99,6 @@
 		"sounds": [
 			"alert",
 			"brah",
-			"lookin-at",
-			"woah-mate",
-			"right-hook",
 			"omae-wa-mou-shindeiru",
 			"jontron-what",
 			"megalovania",
@@ -105,35 +108,31 @@
 	"entity.enderman.scream": {
 		"replace": false,
 		"sounds": [
-			"knobhead",
-			"stupid-knobhead",
 			"halo-elite-hahahahahahaha",
 			"halo-elite-killedenemyplayer8",
 			"halo-elite-waagh",
 			"noot-noot",
-			"fookin-knobhead",
 			"pikachu-thunderbolt"
 		]
 	},
 	"entity.enderman.ambient": {
 		"replace": false,
 		"sounds": [
-			"scotland-pound-note",
 			"wort-wort-wort",
 			"halo-elite-woboba",
 			"halo-elite-groupuncover1",
 			"op",
 			"uwu",
 			"gnome-woo",
-			"think-its-dead",
-			"its-dead-anyway",
 			"jon-almaas-landskap",
 			"jon-almaas-hoy-slank-urmann",
 			"jon-almaas-hvorfor-gaa-ut-av-baaten",
 			"jon-almaas-koste-meg",
 			"jon-almaas-lars-monsen-fikser",
 			"jon-almaas-lars-monsen-ogsaa-gjort",
-			"woop-woop"
+			"jon-almaas-liten-oerret",
+			"woop-woop",
+			"jon-almaas-sett-deg-paa-tv-foer"
 		]
 	},
 	"entity.enderman.death": {
@@ -146,23 +145,17 @@
 	"entity.enderman.hurt": {
 		"replace": false,
 		"sounds": [
-			"not-a-good-day",
-			"watch-what-youre-doing",
-			"you-still-here",
 			"halo-elite-sightednewenemy3",
 			"halo-elite-waagh",
 			"ismet-korkort",
 			"sm64-hurt",
-			"jon-almaas-helvete"
+			"jon-almaas-helvete",
+			"jon-almaas-oi"
 		]
 	},
 	"entity.enderman.teleport": {
 		"replace": false,
 		"sounds": [
-			"stop-him",
-			"woah-mate",
-			"not-too-fast",
-			"why-dint-ya-stop-him",
 			"sm64-yahoo"
 		]
 	},
@@ -198,6 +191,53 @@
 			"gmod-metal"
 		]
 	},
+	"entity.zombified_piglin.ambient": {
+		"replace": false,
+		"sounds": [
+			"think-its-dead",
+			"its-dead-anyway",
+			"scotland-pound-note"
+		]
+	},
+	"entity.zombified_piglin.angry": {
+		"replace": false,
+		"sounds": [
+			"stop-him",
+			"woah-mate",
+			"not-too-fast",
+			"why-dint-ya-stop-him",
+			"knobhead",
+			"stupid-knobhead",
+			"lookin-at",
+			"right-hook",
+			"fookin-knobhead"
+		]
+	},
+	"entity.zombified_piglin.hurt": {
+		"replace": false,
+		"sounds": [
+			"not-a-good-day",
+			"watch-what-youre-doing",
+			"you-still-here"
+		]
+	},
+	"entity.zombified_piglin.death": {
+		"replace": false,
+		"sounds": [
+			"stupid-knobhead",
+			"metalpipe"
+		]
+	},
+	"entity.piglin.ambient": {
+		"replace": false,
+		"sounds": [
+			"lars-monsen-hvis-man-er-nordpaa",
+			"lars-monsen-erre-jon-almaas",
+			"lars-monsen-jamen-saa-goy-da",
+			"lars-monsen-kom-tilbake",
+			"lars-monsen-kanke-gaa-naa"
+		]
+	},
 	"entity.piglin.jealous": {
 		"replace": false,
 		"sounds": [
@@ -223,6 +263,8 @@
 		"replace": false,
 		"sounds": [
 			"lars-monsen-herlig",
+			"lars-monsen-herlig-2",
+			"lars-monsen-herlig-3",
 			"lars-monsen-jamen-saa-goy-da",
 			"lars-monsen-kult"
 		]
@@ -239,6 +281,12 @@
 		"replace": false,
 		"sounds": [
 			"lars-monsen-helvete-ish",
+			"lars-monsen-faen"
+		]
+	},
+	"entity.piglin.death": {
+		"replace": false,
+		"sounds": [
 			"lars-monsen-faen"
 		]
 	},
