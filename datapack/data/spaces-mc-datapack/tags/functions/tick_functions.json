@@ -1,6 +1,7 @@
 {
 	"values": [
 		"spaces-mc-datapack:advancements/low_air_check",
-		"spaces-mc-datapack:advancements/low_food_check"
+		"spaces-mc-datapack:advancements/low_food_check",
+		"spaces-mc-datapack:coordinates/compass_check"
 	]
 }
