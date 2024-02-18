@@ -13,5 +13,31 @@
 		"sounds": [
 			"spaces-mc-datapack:good_vitals"
 		]
+	},
+	"metal_pipe_hit": {
+		"sounds": [
+			"spaces-mc-datapack:pipe/metal-pipe-hit-1",
+			"spaces-mc-datapack:pipe/metal-pipe-hit-2",
+			"spaces-mc-datapack:pipe/metal-pipe-hit-3",
+			"spaces-mc-datapack:pipe/metal-pipe-hit-4",
+			"spaces-mc-datapack:pipe/metal-pipe-hit-5",
+			"spaces-mc-datapack:pipe/metal-pipe-hit-6",
+			"spaces-mc-datapack:pipe/metal-pipe-hit-7",
+			"spaces-mc-datapack:pipe/metal-pipe-hit-8",
+			"spaces-mc-datapack:pipe/metal-pipe-hit-9",
+			"spaces-mc-datapack:pipe/metal-pipe-hit-10",
+			"spaces-mc-datapack:pipe/metal-pipe-hit-11",
+			"spaces-mc-datapack:pipe/metal-pipe-hit-12",
+			"spaces-mc-datapack:pipe/metal-pipe-hit-13"
+		]
+	},
+	"metal_pipe_broken": {
+		"sounds": [
+			"spaces-mc-datapack:pipe/metal-pipe-drop-1",
+			"spaces-mc-datapack:pipe/metal-pipe-drop-2",
+			"spaces-mc-datapack:pipe/metal-pipe-drop-3",
+			"spaces-mc-datapack:pipe/metal-pipe-drop-4-loud",
+			"spaces-mc-datapack:pipe/metal-pipe-drop-5-loud"
+		]
 	}
 }

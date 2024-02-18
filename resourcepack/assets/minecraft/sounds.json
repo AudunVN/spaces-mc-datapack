@@ -196,7 +196,20 @@
 		"sounds": [
 			"think-its-dead",
 			"its-dead-anyway",
-			"scotland-pound-note"
+			"scotland-pound-note",
+			"uncle-devvo",
+			"devvo-what-are-you",
+			"devvo-showed-you-didnt-i",
+			"devvo-area",
+			"devvo-boss-of-jobs",
+			"devvo-dole-day",
+			"devvo-how-you-doing-buddy",
+			"devvo-job",
+			"devvo-loads-o-birds",
+			"devvo-lyrical-madness",
+			"devvo-stood-on-that",
+			"devvo-studio",
+			"devvo-time"
 		]
 	},
 	"entity.zombified_piglin.angry": {
@@ -210,7 +223,11 @@
 			"stupid-knobhead",
 			"lookin-at",
 			"right-hook",
-			"fookin-knobhead"
+			"fookin-knobhead",
+			"devvo-where-you-going-tiger",
+			"devvo-a",
+			"devvo-yeee",
+			"devvo-ass"
 		]
 	},
 	"entity.zombified_piglin.hurt": {
@@ -218,7 +235,9 @@
 		"sounds": [
 			"not-a-good-day",
 			"watch-what-youre-doing",
-			"you-still-here"
+			"you-still-here",
+			"devvo-what-you-doin",
+			"devvo-lorry"
 		]
 	},
 	"entity.zombified_piglin.death": {

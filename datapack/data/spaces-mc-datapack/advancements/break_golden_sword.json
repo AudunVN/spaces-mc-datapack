@@ -1,0 +1,34 @@
+{
+	"display": {
+		"title": {
+			"text": "Break a metal pipe."
+		},
+		"description": {
+			"text": "Crunch. Snap. Squeak."
+		},
+		"icon": {
+			"item": "minecraft:golden_sword"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+	"criteria": {
+		"Break a metal pipe": {
+			"trigger": "minecraft:item_durability_changed",
+			"conditions": {
+				"durability": 0,
+				"item": {
+					"items": [
+						"minecraft:golden_sword"
+					]
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "spaces-mc-datapack:advancements/golden_sword_break_reward"
+	},
+	"parent": "spaces-mc-datapack:root"
+}
