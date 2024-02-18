@@ -1,0 +1,37 @@
+{
+	"display": {
+		"title": {
+			"text": "Hit something with a metal pipe."
+		},
+		"description": {
+			"text": "Bonk. Clonk. Boink."
+		},
+		"icon": {
+			"item": "minecraft:golden_sword"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+	"criteria": {
+		"Player hurts entity with metal pipe": {
+			"trigger": "minecraft:player_hurt_entity",
+			"conditions": {
+				"player": {
+					"equipment": {
+						"mainhand": {
+							"items": [
+								"minecraft:golden_sword"
+							]
+						}
+					}
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "spaces-mc-datapack:advancements/hit_with_golden_sword_reward"
+	},
+	"parent": "spaces-mc-datapack:root"
+}

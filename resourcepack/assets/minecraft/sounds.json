@@ -20,7 +20,9 @@
 	"entity.player.burp": {
 		"replace": false,
 		"sounds": [
-			"monsen-herlig",
+			"lars-monsen-herlig",
+			"lars-monsen-herlig-2",
+			"lars-monsen-herlig-3",
 			{
 				"name": "mr-melk-schmaker-godt",
 				"volume": 0.4
@@ -225,7 +227,6 @@
 			"right-hook",
 			"fookin-knobhead",
 			"devvo-where-you-going-tiger",
-			"devvo-a",
 			"devvo-yeee",
 			"devvo-ass"
 		]
