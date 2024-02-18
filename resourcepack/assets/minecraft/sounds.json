@@ -244,8 +244,12 @@
 	"entity.zombified_piglin.death": {
 		"replace": false,
 		"sounds": [
-			"stupid-knobhead",
-			"metalpipe"
+			"metalpipe",
+			"spaces-mc-datapack:pipe/metal-pipe-drop-1",
+			"spaces-mc-datapack:pipe/metal-pipe-drop-2",
+			"spaces-mc-datapack:pipe/metal-pipe-drop-3",
+			"spaces-mc-datapack:pipe/metal-pipe-drop-4-loud",
+			"spaces-mc-datapack:pipe/metal-pipe-drop-5-loud"
 		]
 	},
 	"entity.piglin.ambient": {
