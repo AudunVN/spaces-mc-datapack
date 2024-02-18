@@ -34,12 +34,14 @@
 		"Player hurts entity with metal pipe": {
 			"trigger": "minecraft:player_hurt_entity",
 			"conditions": {
-				"player": {
-					"equipment": {
-						"mainhand": {
-							"items": [
-								"minecraft:golden_sword"
-							]
+				"damage": {
+					"source_entity": {
+						"equipment": {
+							"mainhand": {
+								"items": [
+									"minecraft:golden_sword"
+								]
+							}
 						}
 					}
 				}
