@@ -27,11 +27,6 @@
 			}
 		}
 	},
-	"requirements": [
-		[
-			"Break a metal pipe"
-		]
-	],
 	"rewards": {
 		"function": "spaces-mc-datapack:advancements/golden_sword_break_reward"
 	},
