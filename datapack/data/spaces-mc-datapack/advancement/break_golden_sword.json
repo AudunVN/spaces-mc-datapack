@@ -7,7 +7,7 @@
 			"text": "Crunch. Snap. Squeak."
 		},
 		"icon": {
-			"item": "minecraft:golden_sword"
+			"id": "minecraft:golden_sword"
 		},
 		"frame": "task",
 		"show_toast": false,

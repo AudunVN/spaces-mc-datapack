@@ -7,7 +7,7 @@
 			"text": "Be in decent health after being in bad health."
 		},
 		"icon": {
-			"item": "minecraft:rotten_flesh"
+			"id": "minecraft:rotten_flesh"
 		},
 		"frame": "task",
 		"show_toast": false,

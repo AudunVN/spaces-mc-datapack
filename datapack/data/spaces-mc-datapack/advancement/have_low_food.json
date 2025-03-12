@@ -7,7 +7,7 @@
 			"text": "Be low on hunger. Or, well, high. Be hungry."
 		},
 		"icon": {
-			"item": "minecraft:rotten_flesh"
+			"id": "minecraft:rotten_flesh"
 		},
 		"frame": "task",
 		"show_toast": false,
