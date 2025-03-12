@@ -7,7 +7,7 @@
 			"text": "This is just a test."
 		},
 		"icon": {
-			"item": "minecraft:filled_map"
+			"id": "minecraft:filled_map"
 		},
 		"show_toast": false,
 		"announce_to_chat": false,
@@ -25,9 +25,9 @@
 								"min": 50,
 								"max": 100000
 							}
-						}
-					},
-					"dimension": "overworld"
+						},
+						"dimension": "overworld"
+					}
 				}
 			}
 		},
@@ -41,9 +41,9 @@
 								"min": -100000,
 								"max": -50
 							}
-						}
-					},
-					"dimension": "overworld"
+						},
+						"dimension": "overworld"
+					}
 				}
 			}
 		},
@@ -57,9 +57,9 @@
 								"min": 50,
 								"max": 100000
 							}
-						}
-					},
-					"dimension": "overworld"
+						},
+						"dimension": "overworld"
+					}
 				}
 			}
 		},
@@ -73,9 +73,9 @@
 								"min": -100000,
 								"max": -50
 							}
-						}
-					},
-					"dimension": "overworld"
+						},
+						"dimension": "overworld"
+					}
 				}
 			}
 		}
