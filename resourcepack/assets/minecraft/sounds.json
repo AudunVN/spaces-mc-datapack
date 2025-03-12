@@ -1,4 +1,19 @@
 {
+	"entity.player.death": {
+		"replace": true,
+		"sounds": [
+			"cod4-mission-failed",
+			"discord-leave",
+			"it-was-at-this-moment-that-he-knew",
+			"kids-cheering-yaaaaay",
+			"roblox-death-sound-effect",
+			"skype-disconnect",
+			"stop-it-get-some-help",
+			"the-price-is-right-losing-horn",
+			"you-are-fine-but-you-are-not-fine",
+			"gmod-ragdoll"
+		]
+	},
 	"item.shield.block": {
 		"replace": false,
 		"sounds": [
@@ -33,6 +48,253 @@
 		"replace": false,
 		"sounds": [
 			"what-are-you-doing-in-my-swamp"
+		]
+	},
+	"entity.donkey.ambient": {
+		"replace": true,
+		"sounds": [
+			"dunkey-bill-nice-try-guys",
+			"dunkey-bill-turn-on-the-music",
+			"dunkey-can-you-feel-the-sunshine",
+			"dunkey-duck-quack",
+			"dunkey-hey-guys-its-me",
+			"dunkey-hey-guys-notebook",
+			"dunkey-horse-horse-horse",
+			"dunkey-i-gotchu",
+			"dunkey-im-not-a-mouse",
+			"dunkey-im-one-of-them-now",
+			"dunkey-knack-ladies-and-gents",
+			"dunkey-oooh-this-guy-can-help-me",
+			"dunkey-parking",
+			"dunkey-pelican",
+			"dunkey-see-where-my-fellow-player-has-fallen",
+			"dunkey-sneakman",
+			"dunkey-stroll",
+			"dunkey-tag-team-intro-narrator",
+			"dunkey-thats-golf",
+			"dunkey-this-game-is-a-joke-knack-2-mastapiss",
+			"dunkey-uh-HEH",
+			"dunkey-whats-this-thing-oh",
+			"dunkey-crab-tophat",
+			"dunkey-nascar-vrrrrrm",
+			"dunkey-shot-in-the-face",
+			"dunkey-pp-bizon-bby",
+			"dunkey-spinmove",
+			"dunkey-gotta-kid",
+			"dunkey-hitman",
+			"dunkey-i-wasnt-even-trying",
+			"dunkey-lookwhosback"
+		]
+	},
+	"entity.donkey.angry": {
+		"replace": true,
+		"sounds": [
+			"dunkey-do-you-even-know-who-i-am",
+			"dunkey-en-garde",
+			"dunkey-fight-me",
+			"dunkey-hey-fuck-you",
+			"dunkey-i-have-the-high-ground",
+			"dunkey-uh-oh-busted",
+			"dunkey-watch-out-singed-back",
+			"dunkey-you-will-never-catch-me"
+		]
+	},
+	"entity.donkey.death": {
+		"replace": true,
+		"sounds": [
+			"dunkey-fucking-liar",
+			"dunkey-getting-outta-here",
+			"dunkey-good-thing-i-have-my-die-move",
+			"dunkey-im-done-with-league",
+			"dunkey-nonono-you-threw-me-off-a-cliff",
+			"dunkey-noononononon",
+			"dunkey-seeya",
+			"dunkey-thank-you-dark-souls",
+			"dunkey-this-game-is-a-fucking-disaster",
+			"dunkey-almost-dead-master-of-videogames"
+		]
+	},
+	"entity.donkey.eat": {
+		"replace": true,
+		"sounds": [
+			"dunkey-can-you-pet-the-pizza",
+			"dunkey-chicken",
+			"dunkey-dont-laugh-this-gives-me-poison-resistance",
+			"dunkey-gimme-wiener-pizza",
+			"dunkey-gonna-get-em",
+			"dunkey-haHA-come-to-daddy",
+			"dunkey-i-did-it",
+			"dunkey-i-gotchu",
+			"dunkey-ill-have-the-spaghetti-and-meatballs",
+			"dunkey-its-a-masterpiece",
+			"dunkey-ocean",
+			"dunkey-ocean2",
+			"dunkey-technique-not-even-close-baby",
+			"dunkey-this-is-amazing",
+			"dunkey-this-is-my-mastapiss"
+		]
+	},
+	"entity.donkey.hurt": {
+		"replace": true,
+		"sounds": [
+			"dunkey-gu-UHH",
+			"dunkey-HEEEY",
+			"dunkey-nice-try-guy-2",
+			"dunkey-nononononno",
+			"dunkey-not-even-close-bby",
+			"dunkey-oo-mama-1",
+			"dunkey-oo-mama-2",
+			"dunkey-oo-mama-3",
+			"dunkey-oo-mama-4",
+			"dunkey-you-cant-even-block-this-thing",
+			"dunkey-fuck-you-spiderman",
+			"dunkey-uh-oh",
+			"dunkey-uh-oh-fuck",
+			"dunkey-gimme-one-more-hit",
+			"dunkey-WAAAA",
+			"dunkey-im-a-dickhead",
+			"dunkey-im-stuck-gonna-get-cursed",
+			"dunkey-thats-not-a-professional",
+			"dunkey-sad-bro",
+			"dunkey-ya-idiot",
+			"dunkey-you-set-me-up",
+			"dunkey-hey-fuck-you",
+			"dunkey-do-you-even-know-who-i-am",
+			"dunkey-spinmove"
+		]
+	},
+	"entity.pillager.ambient": {
+		"replace": true,
+		"sounds": [
+			"pillager-guardinghostageescapezone01",
+			"pillager-guardinghostageescapezone03",
+			"pillager-guardinghostages05",
+			"pillager-heardnoise01-2",
+			"pillager-heardnoise01",
+			"pillager-heardnoise02-2",
+			"pillager-heardnoise02",
+			"pillager-heardnoise03-2",
+			"pillager-heardnoise03",
+			"pillager-heardnoise04",
+			"pillager-inposition01-2",
+			"pillager-inposition01",
+			"pillager-peptalk03",
+			"pillager-radio_enemyspotted02",
+			"pillager-radio_enemyspotted05",
+			"pillager-radio_locknload06",
+			"pillager-radio_locknload10",
+			"pillager-spottedloosebomb04",
+			"pillager-spottedloosebomb07",
+			"pillager-spottedloosebomb08",
+			"pillager-thanks02",
+			"pillager-thanks04",
+			"pillager-tmap_cs_source14",
+			"pillager-tmap_cs_source146",
+			"pillager-tmap_cs_source62",
+			"pillager-csgo-awp-reload",
+			"gun",
+			"gunfire",
+			"ak47-boltpull",
+			"ak47-draw",
+			"c4-initiate",
+			"zoom",
+			"ssg08-distant"
+		]
+	},
+	"entity.pillager.celebrate": {
+		"replace": true,
+		"sounds": [
+			"pillager-enemydown05",
+			"pillager-enemydown06",
+			"pillager-lastmanstanding02",
+			"pillager-lastmanstanding03",
+			"pillager-lastmanstanding06-2",
+			"pillager-lastmanstanding06",
+			"pillager-niceshot04",
+			"pillager-niceshot08",
+			"pillager-niceshot09",
+			"pillager-onarollbrag02",
+			"pillager-onarollbrag08",
+			"pillager-onarollbrag09-2",
+			"pillager-onarollbrag09",
+			"pillager-radiobotendclean04-2",
+			"pillager-csgo-mvp"
+		]
+	},
+	"entity.pillager.hurt": {
+		"replace": true,
+		"sounds": [
+			"pillager-friendlyfire03",
+			"pillager-friendlyfire04",
+			"pillager-help03",
+			"pillager-help04",
+			"pillager-help05",
+			"pillager-pinneddown01",
+			"pillager-pinneddown04",
+			"pillager-radiobotfallback01",
+			"pillager-radiobotfallback02",
+			"pillager-radiobotfallback04",
+			"pillager-radio_takingfire06",
+			"pillager-scaredemote01",
+			"pillager-scaredemote04",
+			"pillager-scaredemote06"
+		]
+	},
+	"entity.pillager.death": {
+		"replace": true,
+		"sounds": [
+			"pillager-t_death01-2",
+			"pillager-t_death01",
+			"pillager-t_death02-2",
+			"pillager-t_death02",
+			"pillager-t_death03-3",
+			"pillager-t_death03",
+			"pillager-t_death04-4",
+			"pillager-t_death04"
+		]
+	},
+	"item.crossbow.shoot": {
+		"replace": true,
+		"sounds": [
+			"awp-01",
+			"awp-02",
+			"awp1"
+		]
+	},
+	"item.crossbow.loading_start": {
+		"replace": true,
+		"sounds": [
+			"awp-boltback"
+		]
+	},
+	"item.crossbow.loading_middle": {
+		"replace": true,
+		"sounds": [
+			"awp-cliphit"
+		]
+	},
+	"item.crossbow.loading_end": {
+		"replace": true,
+		"sounds": [
+			"awp-boltforward"
+		]
+	},
+	"item.crossbow.quick_charge_1": {
+		"replace": true,
+		"sounds": [
+			"awp-boltback"
+		]
+	},
+	"item.crossbow.quick_charge_2": {
+		"replace": true,
+		"sounds": [
+			"awp-boltback"
+		]
+	},
+	"item.crossbow.quick_charge_3": {
+		"replace": true,
+		"sounds": [
+			"awp-boltback"
 		]
 	},
 	"entity.mooshroom.suspicious_milk": {
@@ -104,7 +366,10 @@
 			"omae-wa-mou-shindeiru",
 			"jontron-what",
 			"megalovania",
-			"vine-boom"
+			"vine-boom",
+			"vine-run",
+			"nani-soreeeee",
+			"lego-city-hey"
 		]
 	},
 	"entity.enderman.scream": {
@@ -416,7 +681,10 @@
 			"stonks",
 			"kaching",
 			"yaya",
-			"here-comes-the-money"
+			"here-comes-the-money",
+			"sugoi-sugoi",
+			"woooow-sparkle-sparkle",
+			"wa-wa-weewa"
 		]
 	},
 	"entity.wandering_trader.trade": {
